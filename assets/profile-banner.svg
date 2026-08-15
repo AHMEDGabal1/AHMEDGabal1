@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Ahmed Elsayed — AI Engineer</title>
+  <desc id="desc">A dark blue and cyan professional profile banner for an AI Engineer specializing in LLM systems, RAG, and agentic pipelines.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="52%" stop-color="#312E81"/>
+      <stop offset="100%" stop-color="#0891B2"/>
+    </linearGradient>
+    <radialGradient id="glowOne" cx="80%" cy="20%" r="70%">
+      <stop offset="0%" stop-color="#67E8F9" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#67E8F9" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowTwo" cx="12%" cy="90%" r="60%">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#FFFFFF" stroke-opacity="0.07" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="280" rx="26" fill="url(#background)"/>
+  <rect width="1200" height="280" rx="26" fill="url(#grid)"/>
+  <rect width="1200" height="280" rx="26" fill="url(#glowOne)"/>
+  <rect width="1200" height="280" rx="26" fill="url(#glowTwo)"/>
+  <g fill="none" stroke="#A5F3FC" stroke-opacity="0.32" stroke-width="2">
+    <path d="M850 0 C1030 52 1040 182 1200 210"/>
+    <path d="M790 0 C1000 72 1005 160 1200 235"/>
+    <path d="M0 225 C150 160 230 260 370 280"/>
+  </g>
+  <g fill="#CFFAFE" filter="url(#softGlow)">
+    <circle cx="870" cy="58" r="4"/>
+    <circle cx="1034" cy="122" r="3"/>
+    <circle cx="1114" cy="74" r="5"/>
+    <circle cx="226" cy="214" r="4"/>
+  </g>
+  <g fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif">
+    <text x="76" y="112" font-size="54" font-weight="700" letter-spacing="1">Ahmed Elsayed</text>
+    <text x="80" y="158" font-size="22" font-weight="600" fill="#A5F3FC">AI Engineer  ·  LLM Systems  ·  RAG  ·  Agentic Pipelines</text>
+    <text x="80" y="203" font-size="17" fill="#E2E8F0">Building practical AI products from prototype to deployment.</text>
+  </g>
+  <rect x="80" y="224" width="190" height="4" rx="2" fill="#67E8F9"/>
+  <rect x="278" y="224" width="80" height="4" rx="2" fill="#818CF8"/>
+</svg>
