@@ -1,162 +1,126 @@
-# 👋 Hello, I'm Ahmed Elsayed
-
 <div align="center">
-  
-[![AI Engineer](https://img.shields.io/badge/AI-Engineer-8B5CF6?style=for-the-badge&logo=artificial-intelligence&logoColor=white)](https://github.com/AHMEDGabal1)
-[![LLMs](https://img.shields.io/badge/LLMs-Specialist-3B82F6?style=for-the-badge&logo=openai&logoColor=white)]()
-[![Computer Vision](https://img.shields.io/badge/Computer_Vision-Expert-10B981?style=for-the-badge&logo=opencv&logoColor=white)]()
-[![Automation](https://img.shields.io/badge/Intelligent_Automation-Architect-F59E0B?style=for-the-badge&logo=github-actions&logoColor=white)]()
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=AI+Engineer+building+intelligent+systems;LLM+%26+AI+Agents+Specialist;Computer+Vision+%26+NLP+Expert;Turning+complex+problems+into+elegant+solutions)](https://git.io/typing-svg)
-
-</div>
-
-## 🚀 About Me
-
-I'm an **AI Engineer** passionate about building intelligent systems that automate, optimize, and scale businesses. I specialize in:
-
-- **🧠 Large Language Models & AI Agents** — Designing autonomous systems powered by LLMs
-- **👁️ Computer Vision** — Real-time hand tracking, gesture recognition, and visual AI
-- **🤖 Intelligent Automation** — End-to-end automation pipelines for business processes
-- **🔍 NLP & Text Processing** — Translation, summarization, and semantic understanding
-
-I believe in creating technology that makes a tangible impact — from **3D interactive web experiences** to **AI-powered gesture control applications**.
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-Google-4285F4?style=flat-square&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AHMEDGabal1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMEDGabal1&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:06B6D4&height=220&section=header&text=Ahmed%20Elsayed&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%26%20Agentic%20Pipelines&descAlignY=60&descSize=17" width="100%" alt="Animated profile header" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AHMEDGabal1&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=760&lines=Building+production-ready+AI+applications;RAG+%7C+LLM+Agents+%7C+Computer+Vision;From+prototype+to+deployment+with+measurable+impact" alt="Animated typing introduction" />
 </div>
 
----
+<p align="center">
+  <a href="mailto:ahmedgabal994@gmail.com"><img src="https://img.shields.io/badge/Email-ahmedgabal994%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-gabal-09a8b32a3"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Gabal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/AHMEDGabal1"><img src="https://img.shields.io/badge/GitHub-AHMEDGabal1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-## 💼 Featured Projects
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AHMEDGabal1&label=Profile%20Views&color=4F46E5&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Cairo%2C%20Egypt-06B6D4?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-UAE%20Relocation-10B981?style=flat-square" alt="Open to UAE relocation" />
+</p>
+
+## About Me
+
+I am an **AI Engineer** based in Cairo, Egypt, with hands-on experience building LLM-powered applications from prototype to deployment. My main areas of focus are **retrieval-augmented generation, agentic workflows, computer vision, and full-stack AI products**.
+
+I enjoy turning complex business problems into reliable software. I have built AI systems for tender discovery, Egyptian Arabic customer-support automation, dental care, document translation, summarization, and computer vision. I am currently seeking AI Engineer opportunities where I can deepen my expertise in agentic systems and production MLOps.
+
+## Impact at a Glance
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%"><strong>70%</strong><br />less manual sales research</td>
+      <td align="center" width="25%"><strong>80%</strong><br />fewer irrelevant tender results</td>
+      <td align="center" width="25%"><strong>10,000+</strong><br />tender documents processed</td>
+      <td align="center" width="25%"><strong>94%</strong><br />sports classification accuracy</td>
+    </tr>
+  </table>
+</div>
+
+## Technical Toolkit
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,fastapi,docker,postgres,redis,git,github,azure,pytorch&perline=6" alt="Technical skills" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-4F46E5?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-111827?style=flat-square" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/FAISS-00A67E?style=flat-square" alt="FAISS" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Computer_Vision-06B6D4?style=flat-square" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/NLP-10B981?style=flat-square" alt="NLP" />
+</p>
+
+## Featured Work
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">Nexus AI — 3D Interactive Experience</h3>
-      <p align="center">
-        <a href="https://github.com/AHMEDGabal1/3d-website">
-          <img src="https://img.shields.io/badge/Repo-Link-8B5CF6?style=flat-square" />
-        </a>
-      </p>
-      <p align="center">Immersive 3D landing page with React Three Fiber, interactive particles, and cinematic animations.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Three.js-r182-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tailwind-v4-38B2AC?style=flat-square" />
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">GestureAI</h3>
+      <p align="center">Computer-vision application for virtual writing, erasing, and gesture-based interface control.</p>
+      <p align="center"><a href="https://github.com/AHMEDGabal1/GestureAI---AI-Powered-Hand-Gesture-Writing-Application"><img src="https://img.shields.io/badge/View%20Project-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="View GestureAI" /></a></p>
     </td>
-    <td width="50%">
-      <h3 align="center">Smart Home ERP System</h3>
-      <p align="center">
-        <a href="https://github.com/AHMEDGabal1/Smart-Home-ERP-System">
-          <img src="https://img.shields.io/badge/Repo-Link-8B5CF6?style=flat-square" />
-        </a>
-      </p>
-      <p align="center">Comprehensive ERP for smart home business with inventory, sales, projects, and accounting modules.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square" />
-        <img src="https://img.shields.io/badge/TypeScript-5.9-3178C6?style=flat-square" />
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">Smart Home ERP</h3>
+      <p align="center">ERP platform covering inventory, sales, projects, and accounting with a Supabase backend.</p>
+      <p align="center"><a href="https://github.com/AHMEDGabal1/Smart-Home-ERP-System"><img src="https://img.shields.io/badge/View%20Project-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="View Smart Home ERP" /></a></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">AI Translation & Summarization</h3>
-      <p align="center">
-        <a href="https://github.com/AHMEDGabal1/translation-and-sumerization-platform-">
-          <img src="https://img.shields.io/badge/Repo-Link-8B5CF6?style=flat-square" />
-        </a>
-      </p>
-      <p align="center">Containerized platform for document translation and AI-powered summarization.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-18-61DAFB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" />
-        <img src="https://img.shields.io/badge/MUI-v5-007FFF?style=flat-square" />
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">Nexus AI 3D Website</h3>
+      <p align="center">Interactive 3D landing page built with React, Three.js, Tailwind CSS, and Framer Motion.</p>
+      <p align="center"><a href="https://github.com/AHMEDGabal1/3d-website"><img src="https://img.shields.io/badge/View%20Project-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="View Nexus AI" /></a></p>
     </td>
-    <td width="50%">
-      <h3 align="center">GestureAI — Hand Gesture Writing</h3>
-      <p align="center">
-        <a href="https://github.com/AHMEDGabal1/GestureAI---AI-Powered-Hand-Gesture-Writing-Application">
-          <img src="https://img.shields.io/badge/Repo-Link-8B5CF6?style=flat-square" />
-        </a>
-      </p>
-      <p align="center">AI-powered hand tracking for virtual writing, erasing, and gesture-based UI control.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square" />
-        <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square" />
-      </p>
+    <td width="50%" valign="top">
+      <h3 align="center">Translation Platform</h3>
+      <p align="center">Containerized document translation and AI summarization platform with a unified service architecture.</p>
+      <p align="center"><a href="https://github.com/AHMEDGabal1/translation-and-sumerization-platform-"><img src="https://img.shields.io/badge/View%20Project-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="View translation platform" /></a></p>
     </td>
   </tr>
 </table>
 
----
+## Professional Highlights
 
-## 📫 Let's Connect
+- **ArabBot Studio:** Founded a no-code multi-tenant SaaS platform that enables Egyptian SMBs to deploy AI-powered WhatsApp chatbots capable of understanding Egyptian Arabic.
+- **ForsaHunt:** Built a RAG-powered tender discovery platform that reduced sales research time by 70%, reduced irrelevant results by 80% across 10,000+ documents, and was adopted by the sales team within one week.
+- **Dentlyzer:** Built an AI dental-care platform with PyTorch-based X-ray analysis, patient management, intraoral scanner support, and remote aligner tracking. The graduation project received an A+ grade and ranked among the top projects in the cohort.
+
+<details>
+  <summary><strong>More about my background</strong></summary>
+  <br />
+
+  **Education:** B.Sc. in Artificial Intelligence Engineering, Alamein International University, Egypt. Graduated in January 2026 with a Very Good grade.
+
+  **Training:** Digital Egypt Pioneers Initiative and National Telecommunication Institute programs covering data science, machine learning, deep learning, cloud fundamentals, client delivery, and freelance business development.
+
+  **Certifications:** NLP with Attention Models, Generative Adversarial Networks, Deep Learning and Reinforcement Learning, and Neural Networks and Deep Learning.
+</details>
+
+## GitHub Activity
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.elsayed@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-gabal-09a8b32a3)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AHMEDGabal1)
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AHMEDGabal1&show_icons=true&hide_border=true&bg_color=0F172A&title_color=FFFFFF&text_color=CBD5E1&icon_color=06B6D4&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMEDGabal1&layout=compact&hide_border=true&bg_color=0F172A&title_color=FFFFFF&text_color=CBD5E1&langs_count=8" alt="Top languages" />
 </div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AHMEDGabal1&hide_border=true&background=0F172A&ring=4F46E5&fire=06B6D4&currStreakLabel=FFFFFF&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" />
+</div>
+
+## Let’s Connect
+
+If you are interested in **LLM applications, RAG systems, AI agents, computer vision, or full-stack product development**, feel free to reach out.
+
+<p align="center">
+  <a href="mailto:ahmedgabal994@gmail.com">ahmedgabal994@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/ahmed-gabal-09a8b32a3">LinkedIn</a> ·
+  <a href="https://github.com/AHMEDGabal1">GitHub</a>
+</p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AHMEDGabal1&color=8B5CF6&style=flat-square&label=Profile+Views" />
-  
-  ⚡ *Building the future, one intelligent system at a time.*
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated profile footer" />
 </div>
