@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:06B6D4&height=220&section=header&text=Ahmed%20Elsayed&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20RAG%20%26%20Agentic%20Pipelines&descAlignY=60&descSize=17" width="100%" alt="Animated profile header" />
+  <img src="https://raw.githubusercontent.com/AHMEDGabal1/AHMEDGabal1/main/assets/profile-banner.svg" width="100%" alt="Animated profile header" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=760&lines=Building+production-ready+AI+applications;RAG+%7C+LLM+Agents+%7C+Computer+Vision;From+prototype+to+deployment+with+measurable+impact" alt="Animated typing introduction" />
 </div>
 
 <p align="center">
@@ -112,5 +111,4 @@ If you are working on **LLM applications, RAG systems, AI agents, computer visio
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:4F46E5,100:0F172A&height=120&section=footer&animation=fadeIn" width="100%" alt="Animated profile footer" />
 </div>
