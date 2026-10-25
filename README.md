@@ -59,8 +59,9 @@ I build practical systems that connect models to real business workflows: tender
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">ArabBot Studio</h3>
-      <p align="center">Founded a multi-tenant SaaS platform for Egyptian SMBs to deploy AI-powered WhatsApp chatbots that understand Egyptian Arabic.</p>
-      <p align="center"><strong>LangChain · Gemini · FAISS · FastAPI · React · PostgreSQL · Redis</strong></p>
+      <p align="center">Founded a multi-tenant SaaS platform for Egyptian SMBs to deploy AI-powered WhatsApp chatbots that understand Egyptian Arabic — live in production with RAG intent routing and multi-tenant automation.</p>
+      <p align="center"><strong>LangChain · Gemini · FAISS · FastAPI · React · PostgreSQL · Redis · Cloudflare</strong></p>
+      <p align="center"><a href="https://arabbot-studio-fe.aiorg1.workers.dev/"><img src="https://img.shields.io/badge/Live%20Demo-06B6D4?style=for-the-badge&logo=cloudflare&logoColor=white" alt="View ArabBot Studio live demo" /></a> <a href="https://github.com/AHMEDGabal1/arabbot-studio"><img src="https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View ArabBot Studio source code" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">ForsaHunt</h3>
