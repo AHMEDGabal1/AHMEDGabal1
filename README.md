@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+  <em>Building AI products that speak your customer's language — Arabic and English, prototype to production.</em>
 </div>
 
 <p align="center">
@@ -100,6 +101,18 @@ I build practical systems that connect models to real business workflows: tender
 
   Certifications include **NLP with Attention Models**, **Generative Adversarial Networks**, **Deep Learning and Reinforcement Learning**, and **Neural Networks and Deep Learning**.
 </details>
+
+## GitHub Activity
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AHMEDGabal1&theme=discord&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub achievements" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AHMEDGabal1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=06B6D4&text_color=C9D1D9" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHMEDGabal1&layout=compact&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=C9D1D9&langs_count=8" alt="Top languages" height="165" />
+  <img src="https://streak-stats.demolab.com?user=AHMEDGabal1&hide_border=true&background=0D1117&ring=4F46E5&currStreakLabel=06B6D4&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9" alt="GitHub streak" height="165" />
+</div>
 
 ## Let’s Connect
 
