@@ -72,9 +72,10 @@ I build practical systems that connect models to real business workflows: tender
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">3D Interactive Website</h3>
-      <p align="center">Live interactive portfolio experience with real-time particles, smooth scrolling, glassmorphism, and cinematic transitions.</p>
-      <p align="center"><a href="https://3d-website1-ruddy.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="View live demo" /></a> <a href="https://github.com/AHMEDGabal1/3d-website1"><img src="https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View source code" /></a></p>
+      <h3 align="center">Mansa Edu</h3>
+      <p align="center">High-performance e-learning platform featuring secure private video streaming, HMAC-signed playback tokens, Cloudflare D1 distributed database, and student access management.</p>
+      <p align="center"><strong>Cloudflare Pages · D1 · Cloudflare R2 · Node.js · Express · Web Crypto</strong></p>
+      <p align="center"><a href="https://mansa-edu.pages.dev"><img src="https://img.shields.io/badge/Live%20Demo-06B6D4?style=for-the-badge&logo=cloudflare&logoColor=white" alt="View Mansa Edu live demo" /></a> <a href="https://github.com/AHMEDGabal1/mansa-edu"><img src="https://img.shields.io/badge/Source%20Code-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="View Mansa Edu source code" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Smart Home ERP</h3>
